@@ -1,5 +1,4 @@
 #!/bin/bash
-test
 
 # Check if tmux is installed
 
