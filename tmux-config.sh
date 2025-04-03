@@ -90,6 +90,9 @@ bind-key s command-prompt -p "Send pane to:" "join-pane -t :'%%'"
 # Changing the editor to vi
 setw -g mode-keys vi
 
+# Increae the history buffer
+set -g history-limit 999999999
+
 # Start windows and panes at 1, not 0
 set -g base-index 1
 set -g pane-base-index 1
