@@ -56,7 +56,7 @@ curl https://raw.githubusercontent.com/Kunush/tmux/refs/heads/main/tmux-config.s
 
 | Key                | Action                                  |
 |--------------------|-----------------------------------------|
-| `Ctrl-a`           | New prefix (replaces `Ctrl-b`           |
+| `Ctrl-a`           | New prefix (replaces `Ctrl-b`)           |
 | `Alt-arrow`        | Move between panes                      |
 | `Alt-j/k`          | Previous/next window                    |
 
@@ -67,7 +67,7 @@ curl https://raw.githubusercontent.com/Kunush/tmux/refs/heads/main/tmux-config.s
 |--------------------|-----------------------------------------|
 | `"`                | Split vertically                        |
 | `%`                | Split horizontally                      |
-| `Ctrrl-a r`        | Relooad tmux configuration              |
+| `Ctrl-a r`        | Reload tmux configuration              |
 
 
 * * *
@@ -75,7 +75,7 @@ curl https://raw.githubusercontent.com/Kunush/tmux/refs/heads/main/tmux-config.s
 ## 🖥️ Status Bar Preview
 
 ```bash
-[work] | 2023-11-20 14:30 | VPN: 10.8.0.2 | ETH0: 192.168.1.100 | dev-server
+[work] | 2025-11-20 14:30 | VPN: 10.8.0.2 | ETH0: 192.168.1.100 | dev-server
 ```
 
 *   **Blue**: Session name
