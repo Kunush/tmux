@@ -43,10 +43,10 @@ curl https://raw.githubusercontent.com/Kunush/tmux/refs/heads/main/tmux-config.s
 
 | Plugin             | Description                                    |
 |--------------------|------------------------------------------------|
-| [TPM](https://github.com/tmux-plugins/tmux-sensible)            | Tmux Plugin Manager                            |
-| [tmux-sensible](https://github.com/christoomey/vim-tmux-navigator)  | Sensible default settings                      |
-| [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | Seamless navigation between Vim and tmux panes |
-| [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) | Auto-save sessions at regular intervals        |
+| [TPM](https://github.com/tmux-plugins/tmux-sensible)                | Tmux Plugin Manager                              |
+| [tmux-sensible](https://github.com/christoomey/vim-tmux-navigator)  | Seamless navigation between Vim and tmux panes   |
+| [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)    | Persists tmux environment across system restarts |
+| [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)    | Auto-save sessions at regular intervals          |
 
 * * *
 
@@ -56,7 +56,7 @@ curl https://raw.githubusercontent.com/Kunush/tmux/refs/heads/main/tmux-config.s
 
 | Key                | Action                                  |
 |--------------------|-----------------------------------------|
-| `Ctrl-a`           | New prefix (replaces `Ctrl-b`)           |
+| `Ctrl-a`           | New prefix (replaces `Ctrl-b`)          |
 | `Alt-arrow`        | Move between panes                      |
 | `Alt-j/k`          | Previous/next window                    |
 
@@ -67,7 +67,7 @@ curl https://raw.githubusercontent.com/Kunush/tmux/refs/heads/main/tmux-config.s
 |--------------------|-----------------------------------------|
 | `"`                | Split vertically                        |
 | `%`                | Split horizontally                      |
-| `Ctrl-a r`        | Reload tmux configuration              |
+| `Ctrl-a r`        | Reload tmux configuration                |
 
 
 * * *
